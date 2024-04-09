@@ -36,3 +36,16 @@
 ## Satoshi Lab Roadmap
 - **Blockchain and Cryptocurrency**: A roadmap for learning about blockchain and cryptocurrency.
 - **Access**: Available on [GitHub](https://github.com/NextTechLabAP/Satoshi-Lab-Roadmap).
+
+## 0xPat Blog
+- **Introduction**: A series focusing on the development of malicious software, exploring techniques used by malicious applications to execute code, hide from defenses, and persist. The series covers a wide range of topics including executing managed code from native code, implementing a COFF object file loader, creating a C++ application to run malicious shellcode, and more.
+- **Access**: Available at [0xpat.github.io](https://0xpat.github.io/).
+
+## CRR0WW YouTube Channel
+- **Overview**: A YouTube channel that likely focuses on cybersecurity, ethical hacking, and related topics, given the context of the other resources provided.
+- **Access**: Available on [YouTube](https://www.youtube.com/@crr0ww).
+
+## Maldev Academy
+- **Description**: A platform for cybersecurity training, likely offering courses or resources related to ethical hacking, penetration testing, and cybersecurity education.
+- **Access**: Available at [maldevacademy.com](https://maldevacademy.com/).
+
